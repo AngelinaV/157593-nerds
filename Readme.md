@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Angelina Vechkanova](https://htmlacademy.ru/profile/id157593).
-* Наставник: `Неизвестно`.
+* Наставник: [Andrey Kovanov](https://htmlacademy.ru/profile/id63294).
 
 ---
 
